@@ -2,6 +2,9 @@
 using namespace std;
 
 int main() {
-    cout << "git\n";
+    int a,b;
+    a=1;
+    b=3;
+    printf("%d\n",a+b);
     return 0;
 }
